@@ -2,7 +2,7 @@
 
 This is a simple Flask web application that allows users to manage a todo list. The application provides basic functionality for creating, updating, and deleting todo items.
 
-### Overview
+## Overview
 
 The Flask Todo App provides the following features:
 
@@ -11,7 +11,7 @@ The Flask Todo App provides the following features:
 - **Updating Todo Items**: Users can mark todo items as complete or incomplete by clicking the "Update" button next to each item.
 - **Deleting Todo Items**: Users can delete todo items by clicking the "Delete" button next to each item.
 
-### Structure
+## Functionality
 
 The main components of the Flask Todo App are:
 
@@ -22,3 +22,6 @@ The main components of the Flask Todo App are:
 - **HTML Templates**: The user interface is rendered using HTML templates. The `base.html` template provides the basic layout for displaying todo items, while additional templates are used for specific pages and actions.
 
 - **Styling**: The Semantic UI framework are applied to the HTML templates to improve the visual presentation of the application.
+
+## Video
+https://github.com/sriksan/TodoList/assets/111389159/5230c852-87a1-49c0-8d3d-e97899107d5e
