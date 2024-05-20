@@ -1,6 +1,6 @@
 ## Flask Todo App
 
-This is a simple Flask web application that allows users to manage a todo list. The application provides basic functionality for creating, updating, and deleting todo items.
+This is a Flask web application that allows users to manage a todo list. The application provides basic functionality for creating, updating, and deleting todo items.
 
 ## Overview
 
